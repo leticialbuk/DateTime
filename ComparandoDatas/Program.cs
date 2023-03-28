@@ -1,4 +1,6 @@
-﻿namespace MyApp
+﻿using System;
+
+namespace MyApp
 {
     internal class Program
     {
