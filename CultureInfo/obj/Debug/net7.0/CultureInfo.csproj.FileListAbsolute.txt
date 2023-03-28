@@ -1,0 +1,15 @@
+C:\Dev\DateTime\CultureInfo\bin\Debug\net7.0\CultureInfo.exe
+C:\Dev\DateTime\CultureInfo\bin\Debug\net7.0\CultureInfo.deps.json
+C:\Dev\DateTime\CultureInfo\bin\Debug\net7.0\CultureInfo.runtimeconfig.json
+C:\Dev\DateTime\CultureInfo\bin\Debug\net7.0\CultureInfo.dll
+C:\Dev\DateTime\CultureInfo\bin\Debug\net7.0\CultureInfo.pdb
+C:\Dev\DateTime\CultureInfo\obj\Debug\net7.0\CultureInfo.csproj.AssemblyReference.cache
+C:\Dev\DateTime\CultureInfo\obj\Debug\net7.0\CultureInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\DateTime\CultureInfo\obj\Debug\net7.0\CultureInfo.AssemblyInfoInputs.cache
+C:\Dev\DateTime\CultureInfo\obj\Debug\net7.0\CultureInfo.AssemblyInfo.cs
+C:\Dev\DateTime\CultureInfo\obj\Debug\net7.0\CultureInfo.csproj.CoreCompileInputs.cache
+C:\Dev\DateTime\CultureInfo\obj\Debug\net7.0\CultureInfo.dll
+C:\Dev\DateTime\CultureInfo\obj\Debug\net7.0\refint\CultureInfo.dll
+C:\Dev\DateTime\CultureInfo\obj\Debug\net7.0\CultureInfo.pdb
+C:\Dev\DateTime\CultureInfo\obj\Debug\net7.0\CultureInfo.genruntimeconfig.cache
+C:\Dev\DateTime\CultureInfo\obj\Debug\net7.0\ref\CultureInfo.dll
